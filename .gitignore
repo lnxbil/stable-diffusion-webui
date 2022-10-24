@@ -29,3 +29,10 @@ notification.mp3
 /textual_inversion
 .vscode
 /extensions
+
+
+# pyvenv
+/bin/
+/lib/
+/pyvenv.cfg
+/share/
